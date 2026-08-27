@@ -1,3 +1,3 @@
-# Zudio-Store-Sales-Data-Analysis
+# Zudio Store Sales Data Analysis
 
 Updating Soon...
