@@ -40,4 +40,4 @@ The analysis revealed approximately ₹6.26 Cr in total sales and ₹2.50 Cr in 
 
 📸 Dashboard
 
-![Dashboard Screenshot](Dashboard.png)
+![Dashboard Screenshot](ExcelDashboard.png)
