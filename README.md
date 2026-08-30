@@ -39,4 +39,5 @@ To transform raw sales data into an interactive dashboard that makes it easier t
 The analysis revealed approximately ₹6.26 Cr in total sales and ₹2.50 Cr in profit, with sales distributed almost equally across Kids, Men, and Women categories. West Bengal emerged as the highest-performing state, while Dresses generated the highest sales profit among clothing types. Monthly sales remained relatively stable throughout most of the year, with October recording the highest sales. A significant decline was observed in December, highlighting a potential data or seasonal trend requiring further investigation.
 
 📸 Dashboard
+
 ![Dashboard Screenshot](Dashboard.png)
